@@ -1,3 +1,1 @@
-#!/usr/bin/python
-
-print "hello world!"
+测试一下中文的情况
